@@ -1,5 +1,5 @@
 package my_java_student_a58j011;
 
-public class cat {
+public class cat  extends animal {
 
 }
